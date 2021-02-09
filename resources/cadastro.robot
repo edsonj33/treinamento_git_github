@@ -100,5 +100,4 @@ Clicar no tipo de seleção
   Click Element     ${input_tipo_producao}
 
 Preencher com um tamanho de area
-
   Input Text        ${input_area}     ${area_valida}
